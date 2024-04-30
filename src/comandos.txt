@@ -1,0 +1,37 @@
+https://ui.shadcn.com/examples/music
+
+
+docker compose up
+
+npm i typescript @types/node tsx tsup -D
+
+npx tsc --init
+
+npm i fastify
+npm i dotenv
+npm i zod
+npm i @fastify/jwt
+
+npm i prisma -D
+npm i @prisma/client
+npm i bcryptjs
+npm i @types/bcryptjs -D
+npm i supertest -D
+npm i @types/supertest -D
+npm i @fastify/cookie
+
+
+
+npm i dayjs
+
+
+npm i vitest vite-tsconfig-paths -D
+npm i -D @vitest/ui
+
+
+npx prisma init
+npx prisma generate
+npx prisma migrate dev quando modificar o schema no prisma usar o -> npx prisma migrate dev
+npx prisma studio
+
+
